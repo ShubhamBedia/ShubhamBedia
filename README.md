@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShubhamBedia
-- 👀 I’m interested in web and game development
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on web/game development
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me : email - mohitbedia1@gmail.com
 
 <!---
