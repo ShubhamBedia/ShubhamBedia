@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @ShubhamBedia
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me : email - mohitbedia1@gmail.com
+Hi, I am Shubham I love programming !!!
 
 <!---
 ShubhamBedia/ShubhamBedia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
