@@ -1,4 +1,4 @@
-Hi, I am Shubham I love programming !!!
+
 
 <!---
 ShubhamBedia/ShubhamBedia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
